@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="images/Alura.png" alt="Alura Logo" height="80">
+  <img src="images/Logo-ONE.png" alt="Oracle Logo" height="80">
+  </p>
+
+
+
 # 📊 Telecom X - Análise de Evasão de Clientes 📉
 
 Projeto educacional desenvolvido como parte da formação **ONE – Tech Fundation – Especialização em Data Science**, promovida pela **Alura** em parceria com a **Oracle**.  
